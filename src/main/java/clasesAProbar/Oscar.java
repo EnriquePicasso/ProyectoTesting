@@ -76,7 +76,7 @@ public class Oscar {
     double h = matriz[2][1];
     double i = matriz[2][2];
 
-    // Calcula el determinante utilizando la regla de la matriz adjunta
+    // Calcula el determinante utilizando la regla de Sarrus
     determinante = (a * e * i) + (d * h * c) + (g * b * f) - (c * e * g) - (f * h * a) - (i * b * d);
 
     return determinante;
