@@ -1,4 +1,4 @@
-package prog.unidad05.gestionclientes.core;
+package clasesAProbar;
 
 public class Aarati {
 
